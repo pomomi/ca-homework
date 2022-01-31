@@ -13,17 +13,17 @@ const team = {
     _players: [
         {
             firstName: 'E. Rex',
-            lastName: 'Sean',
+            lastName: 'Thompson',
             age: 35
         },
         {
             firstName: 'Fonda',
-            lastName: 'Dix',
+            lastName: 'Moloney',
             age: 33
         },
         {
             firstName: 'Hugh',
-            lastName: 'Janus',
+            lastName: 'Richards',
             age: 28
         },
     ],
